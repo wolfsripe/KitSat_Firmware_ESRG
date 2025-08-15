@@ -1,0 +1,2 @@
+../Core/Src/parser.c:16:5:validateCommand	3
+../Core/Src/parser.c:20:6:parseCommand	9

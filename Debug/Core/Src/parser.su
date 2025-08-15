@@ -1,0 +1,2 @@
+../Core/Src/parser.c:16:5:validateCommand	16	static
+../Core/Src/parser.c:20:6:parseCommand	176	static

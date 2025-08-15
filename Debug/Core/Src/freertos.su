@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:78:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:92:6:MX_FREERTOS_Init	136	static
+../Core/Src/freertos.c:148:6:Uart_Parser_Task	144	static
+../Core/Src/freertos.c:184:6:defaultTask	16	static
+../Core/Src/freertos.c:202:6:Dispatcher_Task	72	static
