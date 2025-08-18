@@ -90,5 +90,5 @@ A lógica RTOS garante que cada interface (UART/LoRa) possa operar em paralelo, 
 
 Em caso de falha numa interface, a outra pode continuar ativa sem comprometer a estabilidade do sistema.
 
-É possível estender o protocolo para suportar reenvios, compressão ou verificação CRC de mensagens em futuras iterações.
+É possível estender o protocolo para suportar reenvios, compressão ou verificação CRC de mensagens em futuras iterações .
 
